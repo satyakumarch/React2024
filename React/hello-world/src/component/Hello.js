@@ -4,7 +4,7 @@ import React from 'react';
         <div>
             <h1>hello harshit how are you?</h1>
             <p>welcome to lovely professional university</p>
-            <image src="https://www.freepik.com/free-photos-vectors/beautiful-flowers"></image>
+            <image src="https://www.freepik.com/free-photos-vectors/beautiful-flowers"/>
         </div>
     )
  }
