@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.name{
+  color: #61dafb;
+  font-size: 2rem;
+}
+.lpu{
+  color: #e02020;
+  font-size: 2rem;
+
+}

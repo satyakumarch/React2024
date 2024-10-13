@@ -1,0 +1,23 @@
+.body {
+    padding: 2rem;
+}
+
+.section {
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background-color: #c8dff1;
+    border-radius: 8px;
+    box-shadow: 0 0 30px rgba(228, 64, 64, 0.1);
+    border: 2px solid #e44040;
+
+
+}
+
+.section h1, .section h2 {
+    color: #ff8b07;
+}
+
+.section p {
+    color: #666;
+    
+}

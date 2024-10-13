@@ -1,0 +1,18 @@
+.body {
+    padding: 2rem;
+}
+
+.section {
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background-color: #ef6464;
+    border-radius: 8px;
+}
+
+.section h1, .section h2 {
+    color: #333;
+}
+
+.section p {
+    color: #d8ed50;
+}
