@@ -19,4 +19,4 @@ const CouterApp=()=>{
             <button onClick={()=>dispatch({type:'DECREMENT'})}>Decrement</button>
         </div>
     );
-}
+}w
