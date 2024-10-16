@@ -1,0 +1,36 @@
+/* CounterApp.css */
+h1 {
+    color: blue;
+    font-size: 2em;
+    text-align: center;
+}
+.button{
+    color: aqua;
+    font: 10px;
+}
+.CounterApp{
+    margin-top: 20px;
+    background-color: rgb(16, 139, 139);
+    border: 2px solid red;
+    border-radius: 10px;
+
+
+}
+.count{
+    color: aliceblue;
+}
+.style1{
+    background-color: rgb(157, 245, 151);
+    border: 2px solid red;
+    border-radius: 5px;
+    height: 40px;
+    font-style: oblique;
+    font-size: 20px;
+}
+.style2{
+    background-color: rgb(157, 245, 151);
+    border: 2px solid red;
+    border-radius: 5px;
+    height: 40px;
+    font-size: 20px;
+}
