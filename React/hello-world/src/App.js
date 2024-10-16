@@ -14,13 +14,15 @@ class App extends Component{
     return (
       <div className="App">
         <Navbar/>
-          <CounterApp/>
+         
           {/* <UseCounter/> */}
         <Body/>
         <Greet/>
-        <Table/>
+        
         <Welcome/>
         <Hello/>
+        <CounterApp/>
+        <Table/>
       </div>
     );
   }
