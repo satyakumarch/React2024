@@ -9,6 +9,8 @@ import Body from './component/Body.js';
 import CounterApp from './component/CounterApp.js';
 import Table from './component/Table.js';
 // import Form from './component/Form.js';
+import Stateful from './component/Stateful.js';
+import Stateless from './component/Stateless.js'
 import App1 from './component/App1.js';
 class App extends Component{
   render(){
@@ -25,6 +27,8 @@ class App extends Component{
         <Welcome/>
         <Hello/>
         <CounterApp/>
+        <Stateful/>
+        <Stateless/>
         <Table/>
         
       </div>
