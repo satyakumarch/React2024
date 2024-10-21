@@ -8,7 +8,8 @@ import Body from './component/Body.js';
 
 import CounterApp from './component/CounterApp.js';
 import Table from './component/Table.js';
-import Form from './component/Form.js';
+// import Form from './component/Form.js';
+import App1 from './component/App1.js';
 class App extends Component{
   render(){
     return (
@@ -17,7 +18,8 @@ class App extends Component{
          
           {/* <UseCounter/> */}
         <Body/>
-        <Form/>
+        {/* <Form/> */}
+        <App1/>
         <Greet/>
         
         <Welcome/>
