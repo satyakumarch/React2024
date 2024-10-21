@@ -16,3 +16,46 @@
 .section p {
     color: #d8ed50;
 }
+
+.image-container {
+    width: 300px;
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .image-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    animation: imageAnimation 8s infinite;
+  }
+
+  .image-container img:nth-child(1) {
+    animation-delay: 0s;
+  }
+
+  .image-container img:nth-child(2) {
+    animation-delay: 4s;
+  }
+
+  @keyframes imageAnimation {
+    0% {
+      opacity: 0;
+    }
+    25% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 1;
+    }
+    75% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
