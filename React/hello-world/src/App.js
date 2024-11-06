@@ -12,6 +12,11 @@ import Table from './component/Table.js';
 import Stateful from './component/Stateful.js';
 import Stateless from './component/Stateless.js'
 import App1 from './component/App1.js';
+
+
+import Myform from './component/Myform.js';
+
+
 class App extends Component{
   render(){
     return (
@@ -30,6 +35,7 @@ class App extends Component{
         <Stateful/>
         <Stateless/>
         <Table/>
+        <Myform/>
         
       </div>
     );
