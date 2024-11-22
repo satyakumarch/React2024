@@ -14,7 +14,7 @@ class Table extends Component {
                 </thead>
                 <tbody class="tbody">
                     <tr>
-                        <td>120350</td>
+                        <td>12203506</td>
                         <td>Radhe Radhe</td>
                         <td>Patna</td>
                     </tr>
