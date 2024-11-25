@@ -21,4 +21,6 @@ CSS
 
 HTML
 
+React 
+
 React framework
