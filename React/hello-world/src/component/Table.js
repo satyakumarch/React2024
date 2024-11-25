@@ -10,6 +10,7 @@ class Table extends Component {
                         <th>S.NO</th>
                         <th>Name</th>
                         <th>Addess</th>
+                        <th>phone</th>
                         
                     </tr>
                 </thead>
@@ -18,11 +19,13 @@ class Table extends Component {
                         <td>12203506</td>
                         <td>Radhe Radhe</td>
                         <td>Patna</td>
+                        <td>4254254</td>
                     </tr>
                     <tr>
                         <td>145664</td>
                         <td>Shyam kumar</td>
                         <td>Himanchal</td>
+                        <td>530857034</td>
                     </tr>
                 </tbody>
             </table>
