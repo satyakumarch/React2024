@@ -10,6 +10,7 @@ class Table extends Component {
                         <th>S.NO</th>
                         <th>Name</th>
                         <th>Addess</th>
+                        
                     </tr>
                 </thead>
                 <tbody class="tbody">
