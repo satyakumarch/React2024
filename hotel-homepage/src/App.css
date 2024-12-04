@@ -1,0 +1,364 @@
+/* General Styles
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Light and Dark Mode */
+/* .app {
+  padding: 20px;
+  text-align: center;
+}
+
+.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+.app.light-mode {
+  background-color: #f9f9f9;
+  color: #121212;
+}
+
+/* Form Styles */
+/*
+.form-container {
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 400px;
+  background: #ffffff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.dark-mode .form-container {
+  background: #1e1e1e;
+}
+
+.form-container label {
+  display: block;
+  margin-bottom: 8px;
+  text-align: left;
+}
+
+.form-container input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.dark-mode input {
+  background-color: #333;
+  color: #fff;
+}
+ */
+
+/* Buttons */
+/* .submit-btn,
+.toggle-btn {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.submit-btn {
+  background-color: #007bff;
+  color: white;
+}
+
+.submit-btn:hover {
+  background-color: #0056b3;
+}
+
+.toggle-btn {
+  background-color: #6c757d;
+  color: white;
+}
+
+.toggle-btn:hover {
+  background-color: #5a6268;
+} */
+
+
+
+/* Welcome Message */
+/*
+.welcome-message {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+h1 {
+  color: #333;
+} 
+*/
+
+
+/* Calculator js css */
+/* body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f4f8;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  
+}
+
+.calculator {
+  background: #fcf5b9d8;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  border: 2px solid red;
+}
+
+h1 {
+  color: #333;
+}
+
+.input-group {
+  margin: 20px 0;
+}
+
+input,
+select {
+  font-size: 24px;
+  padding: 10px;
+  margin: 5px;
+  font-size: 16px;
+  background-color: aqua;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 25px;
+  color: rgb(20, 6, 6);
+  background-color: #b2cdea;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #91dacf;
+}
+
+.result {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+} */
+
+/*  Home ,contact and service  */
+/* body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #93c3f3;
+}
+
+.App {
+  text-align: center;
+}
+
+nav {
+  background-color: #333;
+  padding: 10px;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+}
+
+.nav-links li {
+  margin: 0 15px;
+}
+
+.nav-links a {
+  color: rgb(249, 245, 245);
+  text-decoration: none;
+  font-size: 18px;
+  font-style: none;
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}
+
+.content {
+  margin: 20px;
+} */
+
+
+/*  DataFetcher */
+/* .App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  background-color: rgb(129, 243, 243);
+}
+
+h1 {
+  color: #333;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background-color: #e9dca5;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+strong {
+  font-size: 16px;
+}
+
+p {
+  font-size: 14px;
+} */
+
+
+/*  Countdowntimer */
+/* .App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  background-color: rgb(129, 243, 243);
+}
+
+h1 {
+  color: #0f100e;
+} */
+
+
+/*  WrestlerList */
+/* General container styling */
+
+/*
+.container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #a4d7e8;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+h1 {
+  font-size: 2.5rem;
+  color: #333;
+}
+
+
+button {
+  font-size: 1.2rem;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+
+.card {
+  background-color: #eef9b7;
+  border: 5px solid #85c8bf;
+  border-radius: 8px;
+  padding: 15px;
+  text-align: center;
+}
+
+.card h5 {
+  color: #000307;
+  font-weight: bold;
+}
+/*
+*/
+
+.login-container {
+  width: 300px;
+  margin: 0 auto;
+  padding-top: 50px;
+  font-family: Arial, sans-serif;
+  background-color: aqua;
+}
+
+.login-container h2 {
+  text-align: center;
+  color: #ec4141;
+  margin-bottom: 20px;
+}
+
+.login-container label {
+  display: block;
+  margin-bottom: 5px;
+  color: #555;
+  font-weight: bold;
+}
+
+.login-container input {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.login-container span {
+  color: red;
+  font-size: 0.85em;
+}
+
+.login-container button {
+  background: blue;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%;
+  transition: background 0.3s;
+}
+
+.login-container button:disabled {
+  background: gray;
+  cursor: not-allowed;
+}
+
+.login-container button:hover:not(:disabled) {
+  background: darkblue;
+}
+
